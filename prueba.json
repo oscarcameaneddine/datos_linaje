@@ -1,8 +1,14 @@
 [
         {"level1": "tenant", "person": "Repsol", "kpi": 100},
         {"level1": "tenant", "level2": "Data Tracker", "person": "Data Tracker", "kpi": 200},
-        {"level1": "tenant", "level2": "Data Tracker", "person": "Autodiagnostico", "kpi": 200},
-        {"level1": "tenant", "level2": "Data Tracker", "level3": "Data Tracker","person": "Dimensiones Data Tracker_PRODUCCION" ,"kpi": 200},
-        {"level1": "tenant", "level2": "Data Tracker", "level3": "Data Tracker","person": "Auditoria_Actual_PRODUCCION" ,"kpi": 200},
-        {"level1": "tenant", "level2": "Data Tracker", "level3": "Data Tracker","person": "Auditoria_Actual_HISTORICO" ,"kpi": 200}
+        {"level1": "tenant", "level2": "Autodiagnostico", "person": "Autodiagnostico", "kpi": 200},
+        {"level1": "tenant", "level2": "Area de trabajo n", "person": "Area de trabajo n", "kpi": 200},
+        {"level1": "tenant", "level2": "Autodiagnostico", "level3":"SharePoint" ,"person": "https://...", "kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Dimensiones Data Tracker_PRODUCCION","person": "Dimensiones Data Tracker_PRODUCCION" ,"kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","person": "Auditoria_Actual_PRODUCCION" ,"kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_HISTORICO","person": "Auditoria_HISTORICO" ,"kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"DIM_V2.ActivityEvents" ,"kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"DIM_V2.Reports" ,"kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"DIM_V2.Dashboards" ,"kpi": 200}
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"nombre de tabla n" ,"kpi": 200}
 ]
