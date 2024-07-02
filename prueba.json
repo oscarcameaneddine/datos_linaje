@@ -9,6 +9,6 @@
         {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_HISTORICO","person": "Auditoria_HISTORICO" ,"kpi": 200},
         {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"DIM_V2.ActivityEvents" ,"kpi": 200},
         {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"DIM_V2.Reports" ,"kpi": 200},
-        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"DIM_V2.Dashboards" ,"kpi": 200}
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"DIM_V2.Dashboards" ,"kpi": 200},
         {"level1": "tenant", "level2": "Data Tracker", "level3": "Auditoria_Actual_PRODUCCION","level4": "Auditoria_Actual_PRODUCCION","level5":"SQL Server", "person":"nombre de tabla n" ,"kpi": 200}
 ]
