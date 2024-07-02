@@ -1,0 +1,8 @@
+[
+        {"level1": "tenant", "person": "Repsol", "kpi": 100},
+        {"level1": "tenant", "level2": "Data Tracker", "person": "Data Tracker", "kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "person": "Autodiagnostico", "kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Data Tracker","person": "Dimensiones Data Tracker_PRODUCCION" ,"kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Data Tracker","person": "Auditoria_Actual_PRODUCCION" ,"kpi": 200},
+        {"level1": "tenant", "level2": "Data Tracker", "level3": "Data Tracker","person": "Auditoria_Actual_HISTORICO" ,"kpi": 200}
+]
